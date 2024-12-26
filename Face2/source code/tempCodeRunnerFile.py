@@ -1,0 +1,1 @@
+ face_locations, face_names = sfr.detect_known_faces(frame)
